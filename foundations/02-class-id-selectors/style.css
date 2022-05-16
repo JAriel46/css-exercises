@@ -1,0 +1,20 @@
+.classes{
+    background-color: rgb(216, 112, 147); 
+    color: #000;
+    font-family: Verdana, "DejaVu Sans ", sans-serif;
+}
+
+.anCla{
+    font-size: 24px;
+}
+
+#u1{
+    color: rgb(16, 16, 232);
+    font-size: 36px;
+}
+
+#u2{
+    background-color: rgb(91, 225, 91);
+    font-size: 24px;
+    font-weight: bold;
+}
